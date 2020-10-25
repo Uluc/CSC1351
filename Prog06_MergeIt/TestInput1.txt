@@ -1,0 +1,48 @@
+A,J. Edgar,2011,R,1
+A,Indiana Jones and the Temple of Doom,1984,PG,1
+A,Mother's Day,2016,PG-13,4
+A,History of the World Part I,1981,R,1
+A,Crocodile Hunter,2002,PG,2
+A,Twister,1996,PG-13,2
+A,Bonnie & Clyde,1967,R,4
+A,The Wrath of Khan,1982,PG,1
+A,The 13th Warrier,1999,R,4
+A,Flicka,2006,PG,3
+A,Open Range,2003,R,4
+A,The Wackiest Wagon Train in the West,1976,G,1
+A,Flywheel,2003,Not Rated,3
+A,Grumpy Old Men,1993,PG-13,2
+A,Swing Vote,2008,PG-13,1
+A,My Fair Lady,1964,G,1
+A,To Kill a Mockingbird,1962,Not Rated,3
+A,The Brothers McMullen,1995,R,2
+A,South Pacific,2001,PG,4
+A,The Spy Who Dumped Me,2018,R,3
+A,Passengers,2016,PG-13,2
+A,The League of Extraordinary Gentlemen,2003,PG-13,2
+A,Fantastic 4,2005,PG-13,2
+A,Are We Done Yet?,2007,PG,2
+A,End of the Spear,2006,PG-13,1
+A,Pink Panther,1963,Not Rated,1
+A,Shawshank Redemption,1994,R,4
+A,Volunteers,1985,R,3
+A,An Unexpected Journey,2012,PG-13,1
+A,Pink Panther,2006,PG,1
+A,Monte Walsh,2003,Not Rated,3
+A,Spies Like Us,1985,PG,2
+A,Duma,2005,PG,3
+A,American Made,2017,R,2
+A,The Scout,1994,PG-13,2
+A,The Bourne Supremacy,2004,PG-13,2
+A,Speed,1994,R,4
+A,Star Wars Ewok Adventures: The Battle for Endor,1984,Not Rated,1
+A,A Good Day to Die Hard,2013,R,2
+A,Charlie Wilson's War,2007,R,1
+A,The House with a Clock in its Walls,2018,PG,3
+A,Mr. Saturday Night,1992,R,2
+A,Saving Private Ryan,1998,R,3
+A,God's Not Dead,2014,PG,2
+A,First Strike,1996,PG-13,3
+A,My Big Fat Greek Wedding 2,2016,PG-13,1
+A,Hook,1991,PG,1
+A,Agatha Christie's Partners in Crime,2015,Not Rated,1

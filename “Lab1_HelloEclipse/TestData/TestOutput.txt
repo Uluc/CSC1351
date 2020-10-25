@@ -1,0 +1,24 @@
+99
+99
+97
+88
+76
+75
+69
+67
+58
+57
+
+
+Mean: 78.50
+Median: 75.50
+Minimum: 57
+Maximum: 99
+
+Number of As: 3
+Number of Bs: 1
+Number of Cs: 2
+Number of Ds: 2
+Number of Fs: 2
+
+Total Number of Grades: 10

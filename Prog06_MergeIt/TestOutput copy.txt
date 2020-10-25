@@ -1,0 +1,55 @@
+A Good Day to Die Hard,2013,R,2
+Agatha Christie's Partners in Crime,2015,Not Rated,1
+American Made,2017,R,2
+An Unexpected Journey,2012,PG-13,1
+Are We Done Yet?,2007,PG,2
+Bonnie & Clyde,1967,R,4
+Charlie Wilson's War,2007,R,1
+Crocodile Hunter,2002,PG,2
+Die Hard,1988,R,1
+Duma,2005,PG,3
+End of the Spear,2006,PG-13,1
+Fantastic 4,2005,PG-13,2
+First Strike,1996,PG-13,3
+Flicka,2006,PG,3
+Flywheel,2003,Not Rated,3
+God's Not Dead,2014,PG,2
+Grumpy Old Men,1993,PG-13,2
+History of the World Part I,1981,R,1
+Housesitter,1992,PG,3
+Hook,1991,PG,1
+Indiana Jones and the Temple of Doom,1984,PG,1
+J. Edgar,2011,R,1
+Lord of the Rings 2: The Two Towers,2002,PG-13,2
+Monte Walsh,2003,Not Rated,3
+Mother's Day,2016,PG-13,4
+Mr. Saturday Night,1992,R,2
+My Big Fat Greek Wedding 2,2016,PG-13,1
+My Fair Lady,1964,G,1
+Night at the Museum 3: Secret of the Tomb,2014,PG,4
+Open Range,2003,R,4
+Passengers,2016,PG-13,2
+Pink Panther,1963,Not Rated,1
+Pink Panther,2006,PG,1
+Robin Hood,2010,PG-13,3
+Saving Private Ryan,1998,R,3
+Shawshank Redemption,1994,R,4
+Sitting Bull,1954,Not Rated,1
+South Pacific,2001,PG,4
+Speed,1994,R,4
+Spies Like Us,1985,PG,2
+Swing Vote,2008,PG-13,1
+The 13th Warrier,1999,R,4
+The Bourne Supremacy,2004,PG-13,2
+The Brothers McMullen,1995,R,2
+The Ghost & the Darkness,1996,R,3
+The House with a Clock in its Walls,2018,PG,3
+The League of Extraordinary Gentlemen,2003,PG-13,2
+The Scout,1994,PG-13,2
+The Spy Who Dumped Me,2018,R,3
+Star Wars Ewok Adventures: The Battle for Endor,1984,Not Rated,1
+The Wackiest Wagon Train in the West,1976,G,1
+The Wrath of Khan,1982,PG,1
+To Kill a Mockingbird,1962,Not Rated,3
+Twister,1996,PG-13,2
+Volunteers,1985,R,3
